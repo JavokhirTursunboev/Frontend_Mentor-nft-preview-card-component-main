@@ -27,7 +27,7 @@ Users should be able to:
 
 ![image](https://user-images.githubusercontent.com/93634237/211179589-d23a85c5-d179-492e-a7c8-4dba1546cf07.png)
 
-###Links
+### Links
 Solution URL [https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main](https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main)
 
 Live site URL [https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-card-component-main/](https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-card-component-main/)
