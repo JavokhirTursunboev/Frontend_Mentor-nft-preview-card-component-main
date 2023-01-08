@@ -23,7 +23,9 @@ Users should be able to:
 - See hover states for interactive elements
 
 ### Screenshots
-![]![image](https://user-images.githubusercontent.com/93634237/211179589-d23a85c5-d179-492e-a7c8-4dba1546cf07.png)
+![image](https://user-images.githubusercontent.com/93634237/211179740-9bcd8435-79b5-4cf1-9ae7-0d25e9baa489.png)
+
+![image](https://user-images.githubusercontent.com/93634237/211179589-d23a85c5-d179-492e-a7c8-4dba1546cf07.png)
 
 ##Links
 Solution URL [https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main](https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main)
@@ -43,5 +45,5 @@ Live site URL [https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-
 I learned how to add a nice hover effect on an image.
 
 ###Author
---frontend mentor ![@JavaHear](https://www.frontendmentor.io/profile/JavaHear)
---Github ![JavokhirTurusnboev](https://github.com/JavokhirTursunboev)
+--frontend mentor [![@JavaHear](https://www.frontendmentor.io/profile/JavaHear)](https://www.frontendmentor.io/profile/JavaHear)
+--Github   https://github.com/JavokhirTursunboev
