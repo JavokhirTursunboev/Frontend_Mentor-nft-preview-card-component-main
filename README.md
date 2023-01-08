@@ -13,7 +13,7 @@ This is a solution to the [NFT preview card component challenge on Frontend Ment
   - [Useful resources](#useful-resources)
 - [Author](#author)
 
-## Overview
+### Overview
 
 ### The challenge
 
@@ -27,12 +27,12 @@ Users should be able to:
 
 ![image](https://user-images.githubusercontent.com/93634237/211179589-d23a85c5-d179-492e-a7c8-4dba1546cf07.png)
 
-##Links
+###Links
 Solution URL [https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main](https://github.com/JavokhirTursunboev/Frontend_Mentor-nft-preview-card-component-main)
 
 Live site URL [https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-card-component-main/](https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-card-component-main/)
 
-## My process
+### My process
 
 ### Built with
 
@@ -44,7 +44,7 @@ Live site URL [https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-
 
 I learned how to add a nice hover effect on an image.
 
-###Author
+### Author
 - Frontend Mentor - [@JavaHear](https://www.frontendmentor.io/profile/JavaHear)
 - GitHub - [JavokhirTursunboev](https://github.com/JavokhirTursunboev)
 
