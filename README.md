@@ -45,5 +45,6 @@ Live site URL [https://javokhirtursunboev.github.io/Frontend_Mentor-nft-preview-
 I learned how to add a nice hover effect on an image.
 
 ###Author
---frontend mentor ![@JavaHear](https://www.frontendmentor.io/profile/JavaHear)](https://www.frontendmentor.io/profile/JavaHear)
---Github  ![JavokhirTursunboev]( https://github.com/JavokhirTursunboev)]( https://github.com/JavokhirTursunboev)
+- Frontend Mentor - [@JavaHear](https://www.frontendmentor.io/profile/JavaHear)
+- GitHub - [JavokhirTursunboev](https://github.com/JavokhirTursunboev)
+
